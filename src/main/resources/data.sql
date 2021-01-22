@@ -1,0 +1,1 @@
+INSERT INTO public.account ("holder", "amount") VALUES ('Holder1', 100), ('Holder2', 200), ('Holder3', 300), ('Holder4', 400), ('Holder5', 500);
